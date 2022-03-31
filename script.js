@@ -35,9 +35,9 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Data Analytics", "Graphic Design", "Video Editing", "Microsoft Office Applications"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        strings: ["Graphic Design", "Video Editing", "Motion Graphics", "Microsoft Office Applications"],
+        typeSpeed: 40,
+        backSpeed: 30,
         loop: true
     });
 
