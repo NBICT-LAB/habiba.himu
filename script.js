@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Senior Executive of NBICT LAB", "Co-Instructor of Microsoft Office Applications"],
+        strings: ["Senior Executive of NBICT LAB", "Co-Instructor of Microsoft Office", "Graphic Designer", "Video Editor", "Motion Designer"],
         typeSpeed: 50,
         backSpeed: 50,
         loop: true
@@ -97,6 +97,7 @@ $(document).ready(function(){
             ]		
         });
     
+        // client section 
     
 
 
