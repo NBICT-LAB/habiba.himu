@@ -192,7 +192,7 @@ section .title::after{
     color: crimson;
     font-weight: 500;
 }
-.home .home-content a{
+.btn{
     display: inline-block;
     background: crimson;
     color: #fff;
